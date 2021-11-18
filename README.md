@@ -1,6 +1,6 @@
 # Data-anlaysis-using-json-file
 
-Here I have used movies.sqlite dataset for data analysis
+Here I have used json file for data analysis
 
 Libraries used:pandas,matplotlib
 
